@@ -36,14 +36,3 @@ Available distributions:
                          fedora
                          solus
                          clearlinux
-
-
-
-## Configuration
-
-Architectures and distribution versions are configurable in the script itself.
-
-
-## License
-
-[MIT](https://opensource.org/licenses/MIT)
