@@ -64,8 +64,12 @@ clearlinux_image="clear-32910-live-desktop.iso"
 set -o errexit
 
 download_dir="$PWD"
-usage="$(basename $0) [OPTIONS] DISTRIBUTION1 [DISTRIBUTION2 DISTRIBUTION3 ...] [all]
-Available distributions: gentoo \
+usage="$(basename $0)  DISTRIBUTION1 [DISTRIBUTION2 DISTRIBUTION3]"
+
+#Options:
+#-c        only check that the url returns 200, don't download anything"
+
+distros="Available distributions: gentoo 
                          debian 
 			 freebsd 
 			 slackware_current 
@@ -76,13 +80,13 @@ Available distributions: gentoo \
 			 nixos
 			 fedora
 			 solus
-			 clearlinux
+			 clearlinux"
 
-Options:
--c        only check that the url returns 200, don't download anything"
+
 
 if [[ $# == 0 ]];then
 	echo $usage
+	echo $distros 
 fi
 
 
