@@ -2,7 +2,7 @@ PLEASE CONTRIBUTE BACK TO THE ORIGINAL PROJECT , THIS IS A MODIFIED VERSION. :)
 
  * File bugs or possible improvements at https://github.com/nodiscc/distrib-dl/issues
 
-# distrib-dl
+# linux-distros-dl
 
 Download and keep up-to-date Linux/BSD distribution ISO images/installers.  
 Downloads will be verified against checksums and GPG keys.  
@@ -20,7 +20,7 @@ Downloads will be verified against checksums and GPG keys.
 ## Usage
 
 ```
-./distrib-dl DISTRIBUTION1 [DISTRIBUTION2 DISTRIBUTION3 ...]
+./linux-distros-dl DISTRIBUTION1 [DISTRIBUTION2 DISTRIBUTION3 ...]
 
 
 Available distributions: 
