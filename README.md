@@ -22,8 +22,9 @@ Useful to maintain a local ISO image repository.
 
 ```
 ./distrib-dl DISTRIBUTION1 [DISTRIBUTION2 DISTRIBUTION3 ...]
-Available distributions: 
+
 ```
+Available distributions: 
                          debian
                          freebsd
                          slackware_current
