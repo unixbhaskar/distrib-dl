@@ -9,7 +9,7 @@ Downloads will be verified against checksums and GPG keys.
 
 ## Installation
 
-`git clone https://github.com/unixbhaskar/distrib-dl.git`
+`git clone https://github.com/unixbhaskar/linux-distros-dl.git`
 
 ## Requirements
 
