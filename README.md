@@ -6,11 +6,10 @@ PLEASE CONTRIBUTE BACK TO THE ORIGINAL PROJECT , THIS IS A MODIFIED VERSION. :)
 
 Download and keep up-to-date Linux/BSD distribution ISO images/installers.  
 Downloads will be verified against checksums and GPG keys.  
-Useful to maintain a local ISO image repository.  
 
 ## Installation
 
-`git clone https://github.com/nodiscc/distrib-dl`
+`git clone https://github.com/unixbhaskar/distrib-dl.git`
 
 ## Requirements
 
